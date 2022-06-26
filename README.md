@@ -5,8 +5,8 @@
 - Arduino Uno
 - Jumper wires
 - MOSFET
-- Strip of 4-pin RGB LEDs
-- Rechargeable Battery
+- Strip of 4-pin RGB LEDs (`SMD5050`)
+- Rechargeable Battery (9V)
 
 ## About the program
 
@@ -33,9 +33,8 @@ The directory [Videos](./Videos/) contains videos recorded during a project run.
 
 ## Simulation and schematic
 
-// TODO
-View on [TinkerCAD](https://google.com/404).
+View on [TinkerCAD](https://www.tinkercad.com/things/fyWUYvkVDYx?sharecode=4j98fkDdfbSnd5C0-UdQgde5HgeWD6A5yZMcrvgXK5c).
 
 ## Members
 
-Akshay Pratap Singh and Swastik Pal
+Akshay Pratap Singh and [Swastik Pal](https://github.com/kitswas).
