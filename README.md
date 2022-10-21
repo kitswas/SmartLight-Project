@@ -33,8 +33,10 @@ The directory [Videos](./Videos/) contains videos recorded during a project run.
 
 ## Simulation and schematic
 
-View on [TinkerCAD](https://www.tinkercad.com/things/fyWUYvkVDYx?sharecode=4j98fkDdfbSnd5C0-UdQgde5HgeWD6A5yZMcrvgXK5c).
+View on [TinkerCAD](https://www.tinkercad.com/things/fyWUYvkVDYx?sharecode=4j98fkDdfbSnd5C0-UdQgde5HgeWD6A5yZMcrvgXK5c).  
+**Note:** The simulation varies slightly from the IRL product due to a difference in the availablity of components.
 
 ## Members
 
-Akshay Pratap Singh and [Swastik Pal](https://github.com/kitswas).
+1. [Akshay Pratap Singh](bluejoggers) - Circuit design and assembly.  
+2. [Swastik Pal](https://github.com/kitswas) - Arduino programming.  
