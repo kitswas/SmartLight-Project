@@ -38,5 +38,5 @@ View on [TinkerCAD](https://www.tinkercad.com/things/fyWUYvkVDYx?sharecode=4j98f
 
 ## Members
 
-1. [Akshay Pratap Singh](bluejoggers) - Circuit design and assembly.  
+1. [Akshay Pratap Singh](https://github.com/bluejoggers) - Circuit design and assembly.  
 2. [Swastik Pal](https://github.com/kitswas) - Arduino programming.  
